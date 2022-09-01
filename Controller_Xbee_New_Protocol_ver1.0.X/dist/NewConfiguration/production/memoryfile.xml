@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/NewConfiguration/production\Controller_Xbee_New_Protocol_ver1.0.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>3842</used>
+      <free>61694</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3896</length>
+      <used>343</used>
+      <free>3553</free>
+    </memory>
+  </executable>
+</project>
